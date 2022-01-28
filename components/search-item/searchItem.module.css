@@ -1,0 +1,11 @@
+.search-item-container {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 33.33333%;
+  margin-bottom: 20px;
+}
+
+.s-item-title {
+  width: 60%;
+  text-align: center;
+}
